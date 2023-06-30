@@ -8,7 +8,7 @@ Help and discussion: <http://groups.google.com/group/radiohead-arduino>
 
 RadioHead is a trademark of AirSpayce Pty Ltd.
 
-Copyright (C) 2011-2021 Mike McCauley.
+Copyright (C) 2011-2023 Mike McCauley.
 
 Open Source License: GPL V3 <https://www.gnu.org/licenses/gpl-3.0.html>
 
